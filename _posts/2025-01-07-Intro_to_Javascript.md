@@ -7,7 +7,3 @@ tag: [Like, Comment and Subscribe]
 ---
 
 
-
-```javascript
-console.log('Hello World')
-```
