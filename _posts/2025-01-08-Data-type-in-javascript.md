@@ -4,8 +4,6 @@ title: Javascript Data Type in Bangla
 date: 07-01-2025
 categories: [javascript]
 tag: [js, জাভাস্ক্রিপ্ট, জাভাস্ক্রিপ্ট ডেটা টাইপ]
-image: assets/img/js-data-type.png
-alt: "JS Data Type"
 ---
 আমরা তো আসলে প্রোগ্রামিং করি বা কাজ করি ডেটা নিয়ে। ডেটা ইজ এভ্রিথিং! 
 জাভাস্ক্রিপ্টে Data Type জিনিসটা ডিফাইন করে দেয়, আমাদের ভ্যারিয়েবলে স্টোর করা ডেটার টাইপ কোনটা বা কোন ধরনের ডেটা আমরা স্টোর করছি, সেই জিনিসটা।
@@ -29,6 +27,7 @@ alt: "JS Data Type"
  5. Undefined
  6. Symbol
  7. BigInt
+<br>
 ## Non-Primitive Data Type
 
 জাভাস্ক্রিপ্টে Non-Primitive / Reference ডেটা টাইপ হচ্ছে ১ টা এবং যেইটা হচ্ছে --

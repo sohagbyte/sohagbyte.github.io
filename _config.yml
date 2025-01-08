@@ -1,8 +1,6 @@
 # The Site Configuration
-
 # Import the theme
 theme: jekyll-theme-chirpy
-
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
@@ -105,7 +103,7 @@ avatar: https://avatars.githubusercontent.com/u/62061581?v=4
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
-toc: false
+toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
