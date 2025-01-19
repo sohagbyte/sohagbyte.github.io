@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Variable in JavaScript
-date: 07-01-2025
+date: 19-01-2025
 categories: [Javascript]
 tag: [js, জাভাস্ক্রিপ্ট, জাভাস্ক্রিপ্ট ভ্যারিয়েবল, javascript in bangla]
 ---
