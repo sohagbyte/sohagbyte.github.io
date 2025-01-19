@@ -216,7 +216,7 @@ exclude:
 
 jekyll-archives:
   enabled: [categories, tags]
-  layouts:
+  layouts: post
     category: category
     tag: tag
   permalinks:
