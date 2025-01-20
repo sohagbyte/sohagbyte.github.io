@@ -18,7 +18,7 @@ title: SohagByte # the main title
 
 tagline: Software Dev. | Cyber Sec. # it will display as the subtitle
 
-description: >-  SohagByte is a Bangladesh based personal tech blogging platform. Here I document my journey..
+description: >- # SohagByte is a Bangladesh based personal tech blogging platform. Here I document my journey..
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://sohagbyte.github.io"
