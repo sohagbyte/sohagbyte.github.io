@@ -14,17 +14,17 @@ timezone: Asia/Dhaka
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: SohagByte # the main title
+title: Sohag Hossain # the main title
 
 tagline: Software Dev. | Cyber Sec. # it will display as the subtitle
 
-description: >- # SohagByte is a Bangladesh based personal tech blogging platform. Here I document my journey..
+description: SohagByte is a Bangladesh based personal tech blogging platform. Here I document my journey..
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://sohagbyte.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: sohagbyte # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -32,12 +32,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Sohag Hossain
+  email: #example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/sohagbyte # change to your Twitter homepage
+    - https://github.com/sohagbyte # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-1/473692741_591966653560345_4693993229536684547_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeEF_pzuB-ros-JUjYj_VeG9oYXo2T0H52OhhejZPQfnY1jQgwKv2C1Rk8v2ucpsHcKMdsrVpGvZSMvTwm8eaYXd&_nc_ohc=M0ga0pr1PH8Q7kNvgHZrC__&_nc_zt=24&_nc_ht=scontent.fdac24-5.fna&_nc_gid=A64QuAoSeafMXuQWGoPhMUy&oh=00_AYDh1RYPJQFTOv7mhN5MY9jf0qTeNPrOgOfaKZa0i8e31w&oe=67945B87
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
