@@ -1,9 +1,7 @@
 ---
 
-layout: post
 title: Introduction to JavaScript Data Type
 date: 07-01-2025
-image: 'assets/img/js-data-type.png'
 categories: [Javascript]
 tag: [js, জাভাস্ক্রিপ্ট, জাভাস্ক্রিপ্ট ডেটা টাইপ]
 
